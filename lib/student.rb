@@ -5,7 +5,7 @@ def initialize
 end
 
 def learn(knowledge)
-  @knolwedge << knowledge
+  @knowledge << knowledge
 end
 
 def knowledge
