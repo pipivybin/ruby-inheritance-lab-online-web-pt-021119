@@ -4,7 +4,9 @@ def learn(knowledge)
   @knolwedge << knowledge
 end
 
-
+def knowledge
+  @knowledge
+end
 
 
 
